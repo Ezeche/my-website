@@ -1,0 +1,67 @@
+body{
+  
+}
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width: 100px;
+    height: 5px;
+    margin: 0 auto;
+    /* background: blue!important; */
+}
+.height-80{
+    min-height: 80vh;
+}
+.about-picture{
+    background: url(https://blog.hubspot.com/hubfs/html-css-javascript.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#filler,#progress{
+    background: url(https://blog.hubspot.com/hubfs/html-css-javascript.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background:linear-gradient(rgba(0,0,0,.5)),(rgba(0,0,0,.9))
+}
+.jumbotron{
+    /* background: url(https://trusaic.com/wp-content/uploads/2019/01/image002.jpg); */
+    background: url(https://www.cloudi5.com/asset/images/web-development-web-design-mobile-app-development-digital-marketingservices-cloudi5.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background:linear-gradient(rgba(0,0,0,.5)),(rgba(0,0,0,.9))
+}
+.navbar-nav,.navbar-brand{
+    /* background-color: blue; */
+    text-decoration-color: white;
+    
+    
+    
+}
+containera{
+    background-color: blue;
+}
+
+.pricing{
+    color: blue;
+}
+#skills{
+    color: blue;
+}
+.cp-text{ color: rgba(0,0,0,.7); text-shadow: 0 1px rgba(255, 255, 255, 0.1);}
+
+
+
+
+
+
+
+
+
+
